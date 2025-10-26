@@ -1,0 +1,27 @@
+Assignment 1
+
+Demonstrates how a pointer stores the address of a variable.
+Used *ptr to change the value of an integer.
+Observed that updating via pointer updates the original variable.
+
+Assignment 2
+
+Demonstrated traversing arrays using *(ptr + i).
+Observed how pointers move based on the data type’s size.
+Used pointer arithmetic to modify array elements directly in memory.
+
+Assignment 3
+
+Implemented swap() using pointer parameters.
+Learned how functions can modify values outside their local scope via pointers.
+
+Assignment 4
+
+Showed how to access and modify values through multiple levels of indirection.
+Useful in dynamic memory allocation and when passing pointers to functions.
+
+Assignment 5
+
+Demonstrated pointer-based traversal of a string.
+Observed that character arrays end with '\0'.
+Practiced counting characters using pointer arithmetic.
